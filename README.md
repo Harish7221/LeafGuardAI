@@ -49,7 +49,6 @@ The project focuses on **simplicity, accuracy, and real-world usability** for fa
 
 ## 📂 Project Structure
 
-```text
 LeafGuardAI/
 ├── potato_disease/        # Model training / backend logic
 ├── potatoes.h5            # Trained CNN model
