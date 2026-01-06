@@ -60,7 +60,7 @@ LeafGuardAI/
 ## 🎥 Demo Video
 
 👉 **Watch the project demo:**  
-https://studio.youtube.com/video/ZoMysI8xDUE/edit
+https://youtu.be/ZoMysI8xDUE
 
 ---
 
