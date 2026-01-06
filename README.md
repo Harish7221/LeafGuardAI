@@ -58,4 +58,36 @@ LeafGuardAI/
 ├── .gitignore
 └── .gcloudignore
 
+## 🎥 Demo Video
+
+👉 **Watch the project demo:**  
+https://www.youtube.com/watch?v=qv21V86AChI
+
+---
+
+## 🧪 What I Learned
+
+- Designing and training CNN models for image classification  
+- Handling real-world image data and preprocessing  
+- Building an end-to-end ML project (model → backend → UI)  
+- Structuring and documenting projects for team readability  
+
+---
+
+## 🔧 Future Improvements
+
+- Support for multiple crops and diseases  
+- Mobile-friendly interface  
+- Cloud deployment  
+- Multilingual support for farmers  
+
+---
+
+## 👤 Author
+
+**Harish D**  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/harishd1419  
+- 🐙 GitHub: https://github.com/Harish7221
+
 
